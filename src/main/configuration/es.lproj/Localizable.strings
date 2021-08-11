@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  MyMovies
+
+  Created by Antonio Fernández Martín on 18/09/2020.
+  Copyright © 2020 Antonio Fernández Martín. All rights reserved.
+*/
+
+"infoApp" = "Aplicación desarrollada por Antonio Fernández Martín como proyecto final del Máster en desarrollo de aplicación sobre dispositivos móviles de la UPV";
+"networkError" = "Ocurrió un error. Compruebe su conexión a Internet.";
+"networkError2" = "Error en la petición";
+"ok" = "OK";
+"no" = "No";
+"errorLoading" = "Ocurrió un error durante la carga de la película.";
+"Info" = "Info";
+"saveImage" = "¿Desea guardar la imagen?";
+"saveMessage" = "Se guardará automáticamente en el carrete.";

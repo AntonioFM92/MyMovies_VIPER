@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Fecha"; ObjectID = "2qv-Ap-CVo"; */
+"2qv-Ap-CVo.text" = "Fecha";
+
+/* Class = "UITextView"; text = "Sitio Web"; ObjectID = "3HM-TJ-wWc"; */
+"3HM-TJ-wWc.text" = "Sitio Web";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Nd-vt-8YN"; */
+"3Nd-vt-8YN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Q0-OE-Vtx"; */
+"3Q0-OE-Vtx.text" = "Label";
+
+/* Class = "UILabel"; text = "Género"; ObjectID = "HXJ-Qv-c0K"; */
+"HXJ-Qv-c0K.text" = "Género";
+
+/* Class = "UINavigationItem"; title = "Third-party software"; ObjectID = "JGJ-2l-iSG"; */
+"JGJ-2l-iSG.title" = "Third-party software";
+
+/* Class = "UITextView"; text = "Sinopsis"; ObjectID = "NAk-Tb-8SA"; */
+"NAk-Tb-8SA.text" = "Sinopsis";
+
+/* Class = "UILabel"; text = "Titulo"; ObjectID = "V3B-24-xkL"; */
+"V3B-24-xkL.text" = "Titulo";
+
+/* Class = "UINavigationItem"; title = "Películas"; ObjectID = "VN9-vw-von"; */
+"VN9-vw-von.title" = "Películas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bfb-dc-weA"; */
+"bfb-dc-weA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c4s-CK-pHe"; */
+"c4s-CK-pHe.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "Recomendadas"; ObjectID = "d7M-go-1Ub"; */
+"d7M-go-1Ub.title" = "Recomendadas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fv5-hZ-You"; */
+"fv5-hZ-You.text" = "Label";
+
+/* Class = "UILabel"; text = "Duración"; ObjectID = "iqL-lI-yIR"; */
+"iqL-lI-yIR.text" = "Duración";
+
+/* Class = "UINavigationItem"; title = "Favoritas"; ObjectID = "jN7-Z9-c3c"; */
+"jN7-Z9-c3c.title" = "Favoritas";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qSf-Hc-KU0"; */
+"qSf-Hc-KU0.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "uFW-ld-XHz"; */
+"uFW-ld-XHz.text" = "Title";

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Environments.plist
+   MyMovies
+
+   Created by Antonio Fernández Martín on 16/08/2020.
+   Copyright (c) 2020 Antonio Fernández Martín. All rights reserved.
+-->
+<plist version="1.0">
+<dict>
+    <key>baseUrl</key>
+    <dict>
+        <key>Debug</key>
+        <string>http://www.omdbapi.com/</string>
+        <key>Release</key>
+        <string>http://www.omdbapi.com/</string>
+        <key>Production</key>
+        <string>http://www.omdbapi.com/</string>
+    </dict>
+    <key>apiKey</key>
+    <dict>
+        <key>Debug</key>
+        <string>d2588d29</string>
+        <key>Release</key>
+        <string>d2588d29</string>
+        <key>Production</key>
+        <string>d2588d29</string>
+    </dict>
+</dict>
+</plist>

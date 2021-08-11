@@ -1,0 +1,6 @@
+framework module SDOSEnvironment {
+  umbrella header "SDOSEnvironment-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,31 @@
+source 'https://github.com/SDOSLabs/cocoapods-specs.git'
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '11.0'
+use_frameworks!
+inhibit_all_warnings!
+
+target 'MyMovies' do
+
+  # Pods for MyMovies
+  pod 'Alamofire', '~> 5.2'
+  pod 'ObjectMapper', '~> 3.5'
+
+  pod 'SDWebImage'
+
+  #Code environments variables
+  pod 'SDOSEnvironment', :git => 'https://github.com/ajpallares/SDOSEnvironment.git', :commit => '5db571f64b3573ab7716fd57c082e3d328ff1d42'
+
+  #Services
+  pod 'SDOSPluggableApplicationDelegate/Scene'
+
+  #Animations and loaders
+    pod 'SDOSHero'
+    pod 'SDOSLoader'
+
+  #Firebase
+  pod 'Firebase/Core'
+  pod 'Firebase/Database'
+  pod 'Firebase/Storage'
+    
+end

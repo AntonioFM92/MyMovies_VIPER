@@ -1,0 +1,6 @@
+framework module SDOSHero {
+  umbrella header "SDOSHero-umbrella.h"
+
+  export *
+  module * { export * }
+}

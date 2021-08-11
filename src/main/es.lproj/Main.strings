@@ -1,0 +1,42 @@
+
+/* Class = "UILabel"; text = "Fecha"; ObjectID = "2qv-Ap-CVo"; */
+"2qv-Ap-CVo.text" = "Fecha";
+
+/* Class = "UITextView"; text = "Sitio Web"; ObjectID = "3HM-TJ-wWc"; */
+"3HM-TJ-wWc.text" = "Sitio Web";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Q0-OE-Vtx"; */
+"3Q0-OE-Vtx.text" = "Label";
+
+/* Class = "UILabel"; text = "Género"; ObjectID = "HXJ-Qv-c0K"; */
+"HXJ-Qv-c0K.text" = "Género";
+
+/* Class = "UITextView"; text = "Sinopsis"; ObjectID = "NAk-Tb-8SA"; */
+"NAk-Tb-8SA.text" = "Sinopsis";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "ONt-FK-1wb"; */
+"ONt-FK-1wb.title" = "Item";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Ta9-Fb-Fnz"; */
+"Ta9-Fb-Fnz.title" = "Item";
+
+/* Class = "UILabel"; text = "Titulo"; ObjectID = "V3B-24-xkL"; */
+"V3B-24-xkL.text" = "Titulo";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "VN9-vw-von"; */
+"VN9-vw-von.title" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c4s-CK-pHe"; */
+"c4s-CK-pHe.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fv5-hZ-You"; */
+"fv5-hZ-You.text" = "Label";
+
+/* Class = "UILabel"; text = "Duración"; ObjectID = "iqL-lI-yIR"; */
+"iqL-lI-yIR.text" = "Duración";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "jN7-Z9-c3c"; */
+"jN7-Z9-c3c.title" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qSf-Hc-KU0"; */
+"qSf-Hc-KU0.text" = "Label";

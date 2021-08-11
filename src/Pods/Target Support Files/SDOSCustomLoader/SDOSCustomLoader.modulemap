@@ -1,0 +1,6 @@
+framework module SDOSCustomLoader {
+  umbrella header "SDOSCustomLoader-umbrella.h"
+
+  export *
+  module * { export * }
+}

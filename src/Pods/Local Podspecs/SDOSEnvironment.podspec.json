@@ -1,0 +1,39 @@
+{
+  "name": "SDOSEnvironment",
+  "platforms": {
+    "ios": "9.0"
+  },
+  "authors": "SDOS",
+  "version": "1.1.1",
+  "license": {
+    "type": "MIT"
+  },
+  "homepage": "https://github.com/SDOSLabs/SDOSEnvironment",
+  "summary": "Librería para el manejo de variables de entorno",
+  "source": {
+    "git": "https://github.com/SDOSLabs/SDOSEnvironment.git",
+    "tag": "v1.1.1"
+  },
+  "frameworks": [
+    "Foundation"
+  ],
+  "requires_arc": true,
+  "swift_versions": "5.0",
+  "preserve_paths": "src/Scripts/*",
+  "dependencies": {
+    "RNCryptor": [
+      "~> 5.0"
+    ]
+  },
+  "subspecs": [
+    {
+      "name": "SDOSEnvironment",
+      "preserve_paths": "src/Classes/*",
+      "source_files": [
+        "src/Classes/*{*.m,*.h,*.swift}",
+        "src/Classes/**/*{*.m,*.h,*.swift}"
+      ]
+    }
+  ],
+  "swift_version": "5.0"
+}

@@ -1,0 +1,1 @@
+"${PODS_ROOT}/SDOSEnvironment/src/Scripts/SDOSEnvironment" -p ${EncryptPassword} -i "${SRCROOT}/main/resources/Environments.plist" -output-bin "${SRCROOT}/main/resources/generated/Environments.bin" -output-file "${SRCROOT}/main/resources/generated/Environment.generated.swift" -validate-environment ${SDOSEnvironment}

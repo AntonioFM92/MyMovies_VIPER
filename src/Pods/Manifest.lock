@@ -1,0 +1,206 @@
+PODS:
+  - Alamofire (5.2.2)
+  - DGActivityIndicatorView (2.1.1)
+  - Firebase/Core (6.32.2):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.8.2)
+  - Firebase/CoreOnly (6.32.2):
+    - FirebaseCore (= 6.10.2)
+  - Firebase/Database (6.32.2):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 6.6.0)
+  - Firebase/Storage (6.32.2):
+    - Firebase/CoreOnly
+    - FirebaseStorage (~> 3.9.0)
+  - FirebaseAnalytics (6.8.2):
+    - FirebaseCore (~> 6.10)
+    - FirebaseInstallations (~> 1.6)
+    - GoogleAppMeasurement (= 6.8.2)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - FirebaseCore (6.10.2):
+    - FirebaseCoreDiagnostics (~> 1.6)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+  - FirebaseCoreDiagnostics (1.6.0):
+    - GoogleDataTransport (~> 7.2)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/Logger (~> 6.7)
+    - nanopb (~> 1.30906.0)
+  - FirebaseDatabase (6.6.0):
+    - FirebaseCore (~> 6.10)
+    - leveldb-library (~> 1.22)
+  - FirebaseInstallations (1.7.0):
+    - FirebaseCore (~> 6.10)
+    - GoogleUtilities/Environment (~> 6.7)
+    - GoogleUtilities/UserDefaults (~> 6.7)
+    - PromisesObjC (~> 1.2)
+  - FirebaseStorage (3.9.0):
+    - FirebaseCore (~> 6.10)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleAppMeasurement (6.8.2):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.7)
+    - GoogleUtilities/MethodSwizzler (~> 6.7)
+    - GoogleUtilities/Network (~> 6.7)
+    - "GoogleUtilities/NSData+zlib (~> 6.7)"
+    - nanopb (~> 1.30906.0)
+  - GoogleDataTransport (7.3.0):
+    - nanopb (~> 1.30906.0)
+  - GoogleUtilities/AppDelegateSwizzler (6.7.2):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.7.2):
+    - PromisesObjC (~> 1.2)
+  - GoogleUtilities/Logger (6.7.2):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.7.2):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.7.2)"
+  - GoogleUtilities/Reachability (6.7.2):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.7.2):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.4.0)
+  - Hero (1.5.0)
+  - leveldb-library (1.22)
+  - M13ProgressSuite (1.2.9)
+  - MBProgressHUD (1.2.0)
+  - nanopb (1.30906.0):
+    - nanopb/decode (= 1.30906.0)
+    - nanopb/encode (= 1.30906.0)
+  - nanopb/decode (1.30906.0)
+  - nanopb/encode (1.30906.0)
+  - ObjectMapper (3.5.3)
+  - PromisesObjC (1.2.10)
+  - RNCryptor (5.1.0)
+  - SDOSCustomLoader (1.0.1):
+    - SDOSCustomLoader/CustomLoader (= 1.0.1)
+  - SDOSCustomLoader/CustomLoader (1.0.1)
+  - SDOSEnvironment (1.1.1):
+    - RNCryptor (~> 5.0)
+    - SDOSEnvironment/SDOSEnvironment (= 1.1.1)
+  - SDOSEnvironment/SDOSEnvironment (1.1.1):
+    - RNCryptor (~> 5.0)
+  - SDOSHero (3.0.0):
+    - Hero (~> 1.4)
+    - SDOSHero/Hero (= 3.0.0)
+  - SDOSHero/Hero (3.0.0):
+    - Hero (~> 1.4)
+  - SDOSLoader (3.0.2):
+    - DGActivityIndicatorView (~> 2.1)
+    - M13ProgressSuite (~> 1.2)
+    - MBProgressHUD (~> 1.1)
+    - SDOSCustomLoader
+    - SDOSLoader/Loader (= 3.0.2)
+    - SDOSSwiftExtension
+  - SDOSLoader/Loader (3.0.2):
+    - DGActivityIndicatorView (~> 2.1)
+    - M13ProgressSuite (~> 1.2)
+    - MBProgressHUD (~> 1.1)
+    - SDOSCustomLoader
+    - SDOSSwiftExtension
+  - SDOSPluggableApplicationDelegate/Core (2.0.1)
+  - SDOSPluggableApplicationDelegate/Scene (2.0.1):
+    - SDOSPluggableApplicationDelegate/Core
+  - SDOSSwiftExtension (1.0.2):
+    - SDOSSwiftExtension/SwiftExtension (= 1.0.2)
+  - SDOSSwiftExtension/SwiftExtension (1.0.2)
+  - SDWebImage (5.9.1):
+    - SDWebImage/Core (= 5.9.1)
+  - SDWebImage/Core (5.9.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Firebase/Core
+  - Firebase/Database
+  - Firebase/Storage
+  - ObjectMapper (~> 3.5)
+  - SDOSEnvironment (from `https://github.com/ajpallares/SDOSEnvironment.git`, commit `5db571f64b3573ab7716fd57c082e3d328ff1d42`)
+  - SDOSHero
+  - SDOSLoader
+  - SDOSPluggableApplicationDelegate/Scene
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DGActivityIndicatorView
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseDatabase
+    - FirebaseInstallations
+    - FirebaseStorage
+    - GoogleAppMeasurement
+    - GoogleDataTransport
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - Hero
+    - leveldb-library
+    - M13ProgressSuite
+    - MBProgressHUD
+    - nanopb
+    - PromisesObjC
+    - RNCryptor
+    - SDWebImage
+  https://github.com/SDOSLabs/cocoapods-specs.git:
+    - SDOSCustomLoader
+    - SDOSHero
+    - SDOSLoader
+    - SDOSPluggableApplicationDelegate
+    - SDOSSwiftExtension
+  trunk:
+    - Alamofire
+    - ObjectMapper
+
+EXTERNAL SOURCES:
+  SDOSEnvironment:
+    :commit: 5db571f64b3573ab7716fd57c082e3d328ff1d42
+    :git: https://github.com/ajpallares/SDOSEnvironment.git
+
+CHECKOUT OPTIONS:
+  SDOSEnvironment:
+    :commit: 5db571f64b3573ab7716fd57c082e3d328ff1d42
+    :git: https://github.com/ajpallares/SDOSEnvironment.git
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  DGActivityIndicatorView: ff2c76073d79692f724863c8dd38685866a03cb6
+  Firebase: 47176280bfba198e531f909cfb1612dad216cb96
+  FirebaseAnalytics: 3c2fee6a922023ccfda7af87e4e641bad1fc11ba
+  FirebaseCore: 1d697bb944bf2af5fc248f1a66e165c9dd88bf97
+  FirebaseCoreDiagnostics: 7415bfb3883b3500c5a95c42b6ba66baae78f600
+  FirebaseDatabase: 13a865a4b85897462b930eb683bda8f52583713f
+  FirebaseInstallations: 466c7b4d1f58fe16707693091da253726a731ed2
+  FirebaseStorage: 33b92875a9b556824886cc7a65120c7d2cb3a8d8
+  GoogleAppMeasurement: 1a66f478c68ecd6c16ee63ee60c7c3a648e6b337
+  GoogleDataTransport: e85fb700c9b027079ce182c3d08e12e0f9618bb4
+  GoogleUtilities: 7f2f5a07f888cdb145101d6042bc4422f57e70b3
+  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
+  Hero: b7385b75e7259da62f4f85462f59a5082d66b058
+  leveldb-library: 55d93ee664b4007aac644a782d11da33fba316f7
+  M13ProgressSuite: ea9f7263e73e9215e6849dfa54e29ee0ad6a145c
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
+  RNCryptor: a369134686cd2ad391323cc856b62e591193ba79
+  SDOSCustomLoader: 299ba8e5b06479f6dd562560ae4e359f115c5f0c
+  SDOSEnvironment: 6f9473f5ec8a3ebcdaaccc1c3710c930f93ff9ec
+  SDOSHero: 827da1d0e01dfd58938537cc8f0e9cfa47b1c276
+  SDOSLoader: 48e052b9073327a04ccf2cfc07bd3ea128de5978
+  SDOSPluggableApplicationDelegate: 769b1a28d29aaadcb7cdfe735a8947efe9196922
+  SDOSSwiftExtension: 6f9bd03dd6c1a6a70b5f60cd7cc470790aee3625
+  SDWebImage: a990c053fff71e388a10f3357edb0be17929c9c5
+
+PODFILE CHECKSUM: c1418422bf8988530e350a1b85d449bf63bf97cb
+
+COCOAPODS: 1.9.1
